@@ -1,5 +1,5 @@
 # Spam-Email-Classifier
-I create a classifier that can distinguish spam (junk or commercial or bulk) emails from ham (non-spam) emails. In this project, we demonstrated:
+I create a classifier that can distinguish spam (junk or commercial or bulk) emails from ham (non-spam) emails. In this project, I demonstrated the following:
 
 • Feature engineering with text data
 
